@@ -1,4 +1,11 @@
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+
+</div>
 ## ⚡ Quick Start Guide
 
 ### Option A: 1-Click Launcher (Windows)
